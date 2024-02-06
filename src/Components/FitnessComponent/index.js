@@ -27,7 +27,7 @@ const FitnessComponent = (props) => {
                         <div className='second white'>Scan the device QR to connect</div>
                         <div className='bg-orange border-radius-35 fs-6 fw-bold pointer-event px-4 py-2 third white'>Scan</div>
                         <div className='img-set-right w-100 text-end'>
-                            <img src='/public/watch.svg' alt='watch' />
+                            <img src='/assignment/public/watch.svg' alt='watch' />
                         </div>
                     </div>
                     <div className='px-3 d-flex flex-wrap gap-3 col-12'>
